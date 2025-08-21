@@ -1,0 +1,1 @@
+<view class="container"><view class="box"><image class="img1" src="/static/logo.png" mode></image><view class="txt1">爱学多乐</view></view><view class="txt2"><rich-text nodes="{{$root.m0}}"></rich-text></view></view>

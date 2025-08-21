@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #F8F8F8;
+}
+.container {
+  box-sizing: border-box;
+  padding: 30rpx;
+}
+.container .item {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 20rpx;
+  background-color: #ffffff;
+  margin-bottom: 30rpx;
+  border-radius: 20rpx 20rpx 20rpx 20rpx;
+}
+.container .item .ib {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 22rpx;
+}
+.container .item .ib .txt2 {
+  font-weight: 500;
+  font-size: 26rpx;
+  color: #666666;
+}
+.container .item .ib .img2 {
+  width: 26rpx;
+  height: 26rpx;
+}
+.container .item .content {
+  font-weight: 500;
+  font-size: 28rpx;
+  color: #000000;
+  padding-bottom: 22rpx;
+  border-bottom: 1rpx solid #E7E7E7;
+}
+.container .item .head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 22rpx;
+}
+.container .item .head .hl {
+  display: flex;
+  align-items: center;
+}
+.container .item .head .hl .txt1 {
+  font-weight: bold;
+  font-size: 26rpx;
+  color: #000000;
+  padding-left: 16rpx;
+}
+.container .item .head .hl .img1 {
+  width: 56rpx;
+  height: 56rpx;
+}
+.container .item .head .hr {
+  font-weight: 500;
+  font-size: 26rpx;
+  color: #666666;
+}
+

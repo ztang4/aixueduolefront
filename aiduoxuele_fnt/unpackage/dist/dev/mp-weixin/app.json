@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/jiaoyu/jiaoyu",
+    "pages/mine/mine",
+    "pages/login/login",
+    "pages/categrage/categrage",
+    "pages/messagedetail/messagedetail",
+    "pages/userinfo/userinfo",
+    "pages/setting/setting",
+    "pages/xieyi/xieyi",
+    "pages/aboutus/aboutus",
+    "pages/jiazhang/jiazhang",
+    "pages/jilu/jilu",
+    "pages/commondetail/commondetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#222222",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/home.png",
+        "selectedIconPath": "/static/homeact.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "/static/notice.png",
+        "selectedIconPath": "/static/noticeact.png",
+        "text": "通知"
+      },
+      {
+        "pagePath": "pages/jiaoyu/jiaoyu",
+        "iconPath": "/static/jiaoyu.png",
+        "selectedIconPath": "/static/jiaoyuact.png",
+        "text": "教育"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "/static/my.png",
+        "selectedIconPath": "/static/myact.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

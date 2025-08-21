@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #ffffff;
+}
+.container {
+  box-sizing: border-box;
+  padding: 28rpx;
+}
+.container .txt1 {
+  font-weight: bold;
+  font-size: 30rpx;
+  color: #222222;
+}
+.container .head {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 30rpx;
+  color: #222222;
+}
+.container .head .img1 {
+  width: 56rpx;
+  height: 56rpx;
+}
+.container .time {
+  font-weight: bold;
+  font-size: 26rpx;
+  color: #666666;
+  margin: 16rpx 0 30rpx 0;
+}
+

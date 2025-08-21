@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #ffffff;
+}
+.container {
+  box-sizing: border-box;
+}
+.container .logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 42rpx;
+  color: #000000;
+  margin: 0 auto;
+  margin-top: 100rpx;
+}
+.container .btn {
+  width: 630rpx;
+  height: 94rpx;
+  background: #008CE9;
+  border-radius: 50rpx 50rpx 50rpx 50rpx;
+  text-align: center;
+  line-height: 94rpx;
+  font-weight: 500;
+  font-size: 32rpx;
+  color: #FFFFFF;
+  margin-top: 154rpx;
+}
+.container .xieyi {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 26rpx;
+  color: #222222;
+  margin-top: 36rpx;
+}
+

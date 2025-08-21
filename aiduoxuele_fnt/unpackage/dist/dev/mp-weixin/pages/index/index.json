@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "爱学多乐",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}
